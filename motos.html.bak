@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Belezinhas aquaticas.</title>
+		<link rel="stylesheet" type="text/css" href="_css/estilos.css"/>
+	
+	</head>
+	<script language="javascript" src="_javascript/trocaimagem.js">
+
+	
+	</script>
+	
+	<body>
+	
+		<div id="interface">
+		
+			<header id="cabeçalho">
+			
+				<hgroup>
+					<h1>Samuel Carvalho das aquaticas</h1>
+					<h2>Modelos e Modelos de aquaticas</h2>
+				</hgroup>
+				<img id="icone" src="_imagens/logo_principal.png"/>
+				
+				
+				
+				<nav id="menu">
+					<h1>Principal menu</h1>
+						<ul>
+							<li><a href="index.html">Voltar</a></li>
+							<li><a href="motos.html">Danadinhas</a></li>
+							<li><a href="suporte.html">Suporte</a></li>
+							<li><a href="quemsomos.html">Nossa história</a></li>
+						
+						
+						
+						</ul>
+				
+				
+				
+				
+				</nav>
+				
+			</header>
+			
+<table id="novastags">		
+<caption>Tabela de preços</caption>
+<tr><td class="tag">Jhawisik Ninja</td><td class="util">R$70.000</td></tr>
+<tr><td class="tag">Polivosk</td><td class="util">R$50.000</td></tr>
+<tr><td class="tag">Rapidez</td><td class="util">R$44.000<td></tr>
+<tr><td class="tag">Tirex</td><td class="util">R$32.000 </td></tr>
+<tr><td class="tag">Ejecct</td><td class="util">R$28.000</td></tr>
+<tr><td class="tag">Hortt</td><td class="util">R$30.000</td></tr>
+
+</table>
+
+			<ul id="album">
+<section id="fotosP">
+<li id="foto01">
+	<span>Jhawisik Ninja</span>
+</li>
+
+<li id="foto02">
+	<span>Polivosk</span>
+</li>
+
+<li id="foto03">
+	<span>Rapidez</span>
+</li>
+
+<li id="foto04">
+	<span>Tirex</span>
+</li>
+
+<li id="foto05">
+	<span>Ejecct</span>
+</li>
+
+<li id="foto06">
+	<span>Hortt</span>
+</li>
+
+
+</ul>	
+
+</section>
+
+
+
+
+	<footer>	<p>Copyright - by samuel carvalho<br/>
+Curta nosso instragram Samuel Santos Carvalho</p></footer>
+</html>
